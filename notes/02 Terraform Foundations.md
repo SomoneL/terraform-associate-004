@@ -1,4 +1,4 @@
-# 01 — Terraform Foundations
+# 02 — Terraform Foundations
 
 Covers: Introduction to Terraform, HCL Basics
 
